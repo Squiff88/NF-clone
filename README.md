@@ -1,6 +1,6 @@
 # Web3 Netflix-Clone
 
-## Moralis / IPFS / REACT
+## MORALIS / IPFS / REACT
 
 ## Run the project
 
